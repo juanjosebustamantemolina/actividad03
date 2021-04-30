@@ -1,0 +1,107 @@
+.grande{
+	position: absolute;
+	left: 160px ;
+	top: 80px ;
+	width: 1000px;
+	height: 500px ;
+	border: solid 5px black;
+	background:red ;
+
+}
+.titulo{
+	position: absolute;
+	left: 20px ;
+	top: 15px ;
+	width: 400px;
+	height: 75px ;
+	border: solid 5px black;
+	background:white ;
+}
+.parrafo{
+	position: absolute;
+	left: 20px ;
+	top: 125px ;
+	width: 400px;
+	height: 200px ;
+	border: solid 5px black;
+	background:white ;
+}
+.foto{
+	position: absolute;
+	left: 20px ;
+	top: 350px ;
+	width: 147px;
+	height: 125px ;
+	border: solid 5px black;
+	background: white;
+background size:cover
+}
+.parrafito{
+	position: absolute;
+	left: 220px ;
+	top: 350px ;
+	width: 200px;
+	height: 125px ;
+	border: solid 5px black;
+	background: white;
+
+}
+.cuadro{
+	position: absolute;
+	left: 570px ;
+	top: 15px ;
+	width: 400px;
+	height: 312px ;
+	border: solid 5px black;
+	background:white ;
+}
+.parrafoto{
+	position: absolute;
+	left: 20px ;
+	top: 15px ;
+	width: 350px;
+	height: 150px ;
+	border: solid 5px black;
+	background:white ;
+}
+.fotota{
+
+position: absolute;
+	left: 40px ;
+	top: 185px ;
+	width: 110px;
+	height: 80px ;
+	border: solid 5px black;
+	background: white;
+}
+.fotote{
+	position: absolute;
+	left: 230px ;
+	top: 185px ;
+	width: 110px;
+	height: 80px ;
+	border: solid 5px black;
+	background: white;
+
+}
+.parrafote{
+	position: absolute;
+	left: 572px ;
+	top: 350px ;
+	width: 200px;
+	height: 125px ;
+	border: solid 5px black;
+	background: white;
+
+
+}
+.fotre{
+	position: absolute;
+	left: 822px ;
+	top: 350px ;
+	width: 147px;
+	height: 125px ;
+	border: solid 5px black;
+	background: white;
+
+}
